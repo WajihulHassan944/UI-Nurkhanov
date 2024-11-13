@@ -379,27 +379,23 @@
       <p>With a dedication to advancing my expertise in data analytics and business intelligence, I have earned certifications that demonstrate my proficiency in data management, analysis, and visualization, as well as my commitment to professional growth.</p>
     </div>
 
-    <div class="row">
-      <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-        <div class="icon"><i class="fa fa-database"></i></div>
-        <h4 class="title"><a href="certificates-gallery.html">MCSE: SQL 2016 Data Management and Analysis</a></h4>
-        <p class="description">Certified in SQL Server 2016, with expertise in managing, analyzing, and transforming data to support business intelligence solutions.</p>
-      </div>
-
-      <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-<div class="icon">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-bar-chart-2">
-        <line x1="18" y1="20" x2="18" y2="10"></line>
-        <line x1="12" y1="20" x2="12" y2="4"></line>
-        <line x1="6" y1="20" x2="6" y2="14"></line>
-    </svg>
-</div>
-      
-
-	  <h4 class="title"><a href="certificates-gallery.html">Google Data Analyst Professional Certificate</a></h4>
-        <p class="description">Recognized for competence in data cleaning, analysis, and visualization, using tools like SQL, R, and Tableau to derive meaningful insights.</p>
-      </div>
+    <div class="row portfolio-container">
+    
+	<div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="cert1.jpg" class="img-fluid" alt="" >
+              			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">MCSE SQL 2016 Data Management and Analysis</p>
+            </div>
     </div>
+
+<div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="cert2.png" class="img-fluid" alt="" >
+              			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">Google Data Analyst Professional Certificate</p>
+            </div>
+    </div>
+
+ </div>
 
   </div>
 </section>
@@ -543,7 +539,7 @@ orderFormSubmit.addEventListener("submit", function(event) {
     subject: userSubject.value,
   };
 
-  fetch("https://mental-health-backend-one.vercel.app/send-data-myportfolio", {
+  fetch("https://mental-health-backend-seven.vercel.app/send-data-uinurkhanov", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
