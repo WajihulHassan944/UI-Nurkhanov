@@ -383,14 +383,14 @@
     
 	<div class="col-lg-6 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="cert1.jpg" class="img-fluid" alt="" >
+              <img src="cert1.jpg" class="img-fluid" alt="" style="box-shadow:0 10px 20px rgba(0,0,0,0.1);">
               			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">MCSE SQL 2016 Data Management and Analysis</p>
             </div>
     </div>
 
 <div class="col-lg-6 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="cert2.png" class="img-fluid" alt="" >
+              <img src="cert2.png" class="img-fluid" alt="" style="box-shadow:0 10px 20px rgba(0,0,0,0.1);" >
               			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">Google Data Analyst Professional Certificate</p>
             </div>
     </div>
@@ -399,6 +399,107 @@
 
   </div>
 </section>
+
+
+
+
+
+
+
+
+<section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>My Projects</h2>
+         </div>
+
+       
+	   
+        <div class="row portfolio-container" >
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="Bikeshare Analysis Dashboard.jpg" class="img-fluid" alt="" >
+              <div class="portfolio-links">
+                <a href="Bikeshare Analysis Dashboard.jpg" data-gall="portfolioGallery" class="venobox" title="Certificate 1"><i class="bx bx-plus"></i></a>
+                
+              </div>
+			  			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">Bikeshare Analysis Dashboard</p>
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="Population Density Analysis.jpg" class="img-fluid" alt="" >
+              <div class="portfolio-links">
+                <a href="Population Density Analysis.jpg" data-gall="portfolioGallery" class="venobox" title="Certificate 1"><i class="bx bx-plus"></i></a>
+                
+              </div>
+			  			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">Population Density Analysis</p>
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="World Happines Ranking .jpg" class="img-fluid" alt="" >
+              <div class="portfolio-links">
+                <a href="World Happines Ranking .jpg" data-gall="portfolioGallery" class="venobox" title="Certificate 1"><i class="bx bx-plus"></i></a>
+                
+              </div>
+			  			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">World Happines Ranking </p>
+            </div>
+          </div>
+
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="four.png" class="img-fluid" alt="" >
+              <div class="portfolio-links">
+                <a href="Financial_20Statements_20-_202020 (1).pdf" class="venobox" title="Certificate 1"><i class="bx bx-plus"></i></a>
+                
+              </div>
+			  			  <p style="font-family: Open Sans, sans-serif; color: #272829; margin:10px auto; text-align:center;">Financial_20Statements_20-_202020 </p>
+            </div>
+          </div>
+
+
+
+
+
+
+
+        </div>
+
+
+
+		
+		
+		
+        </div>
+    </section>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
